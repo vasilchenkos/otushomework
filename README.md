@@ -1,5 +1,5 @@
 # otushomework
-Домашние задания к курсу OTUS Python QA Engineer
+Домашнее задание к курсу OTUS Python QA Engineer
 
 *Подготовка рабочего окружения для разработки автоматических тестов.*
 
